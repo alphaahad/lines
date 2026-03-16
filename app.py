@@ -699,7 +699,7 @@ def preview_panel() -> None:
 # =========================
 # App
 # =========================
-st.set_page_config(page_title="Lines Studio", page_icon="📈", layout="wide")
+st.set_page_config(page_title="Lines Studio", page_icon=" ", layout="wide")
 
 st.markdown(
     """
